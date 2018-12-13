@@ -1,8 +1,12 @@
 # Investigate_Grapminder_Dataset
 
+
 # Description
 
 In this work, I have analyzed a Grapinder dataset and then communicate my findings about it. I used the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
+
+
+# What I have learned?
 
 By the end of this work I :
 
@@ -17,8 +21,6 @@ By the end of this work I :
 # Files description
 
 
-./data/ contains csv files for all grapmider indicators I have used in this work
-
-./Investigate_a_Dataset.ipynb is a jupiter notebook containing the work I have done. 
-
-./Investigate_a_Datasets.html is an html version of this work
+* The data folder contains csv files for all grapmider indicators I have used in this work
+* Investigate_a_Dataset.ipynb is a jupiter notebook containing the work I have done. 
+* Investigate_a_Datasets.html is an html version of this work

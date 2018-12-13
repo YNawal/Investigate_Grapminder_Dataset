@@ -16,8 +16,6 @@ By the end of this work I :
 
 # Files description
 
- ./data/ contains csv files for all grapider indicators I have used in this work.
- 
- ./Investigate_a_Dataset.ipynb is a jupiter notebook containing the work I have done. 
- 
- ./Investigate_a_Datasets.html is a html version of this work.
+./data/contains csv files for all grapider indicators I have used in this work
+./Investigate_a_Dataset.ipynb is a jupiter notebook containing the work I have done. 
+./Investigate_a_Datasets.html is a html version of this work
